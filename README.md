@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I’m Edward 👋
 
-<!--
-**obie3/obie3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a senior mobile engineer focused on building and maintaining production mobile apps with React Native and TypeScript.
 
-Here are some ideas to get you started:
+Over the past 6+ years, I’ve worked on consumer fintech products and a national digital identity platform used by over one million people. My work has involved owning app stability, security-sensitive flows, release processes, and long-term maintenance in regulated environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m comfortable working with distributed teams, async workflows, and taking clear ownership of features from design through production.
+
+### Tech I work with
+- React Native, TypeScript
+- Mobile app architecture and state management
+- Secure storage, biometric authentication
+- CI/CD, OTA updates, app store releases
+
+### Selected work
+- **NIMC Digital Mobile ID** – National identity app with 1M+ active users  
+- **EverydayMoney** – Personal finance and budgeting app (50k+ downloads)  
+- **Wemunize (USAID)** – Immunization reminder app used by 25k+ families  
+
+📎 Portfolio: https://edds-portfolio.netlify.app  
+💼 LinkedIn: https://www.linkedin.com/in/edward-obeya-6670b9132/  
+
+_Open to full-time remote roles (EU / global)._
+
