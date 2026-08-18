@@ -17,8 +17,7 @@ I’m comfortable working with distributed teams, async workflows, and taking cl
 - **EverydayMoney** – Personal finance and budgeting app (50k+ downloads)  
 - **Wemunize (USAID)** – Immunization reminder app used by 25k+ families  
 
-📎 Portfolio: https://edds-portfolio.netlify.app  
-💼 LinkedIn: https://www.linkedin.com/in/edward-obeya-6670b9132/  
+💼 LinkedIn: https://www.linkedin.com/in/edward-obande
 
 _Open to full-time remote roles (EU / global)._
 
