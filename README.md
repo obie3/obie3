@@ -2,7 +2,7 @@
 
 I’m a senior mobile engineer focused on building and maintaining production mobile apps with React Native and TypeScript.
 
-Over the past 6+ years, I’ve worked on consumer fintech products and a national digital identity platform used by over one million people. My work has involved owning app stability, security-sensitive flows, release processes, and long-term maintenance in regulated environments.
+Over 9 years in mobile — 6 of them in React Native — I’ve worked on consumer fintech products and a national digital identity platform used by over one million people. My work has involved owning app stability, security-sensitive flows, release processes, and long-term maintenance in regulated environments.
 
 I’m comfortable working with distributed teams, async workflows, and taking clear ownership of features from design through production.
 
